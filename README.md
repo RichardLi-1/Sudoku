@@ -1,3 +1,3 @@
 # Sudoku
 
-This game requires graphics.py to work
+This game requires Python and graphics.py to work
