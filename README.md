@@ -2,4 +2,9 @@
 
 This game requires Python and is built for Windows.
 Animations may appear slow depending on device performance settings.
-![E3FA944F-7FCA-414B-BF42-43D5C4919305_1_102_a](https://github.com/RichardLi-1/Sudoku/assets/79170351/5f5cf216-4a65-4755-a598-25c2cc23d2f0)
+
+https://cdn.discordapp.com/attachments/698304733709992016/1224181781918515210/2024-03-31_22-04-22.MOV 
+
+
+https://github.com/RichardLi-1/Sudoku/assets/79170351/f575e5dc-c231-4a28-91af-25c7bce9868e
+
